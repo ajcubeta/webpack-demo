@@ -8,6 +8,8 @@ This is a small tutorial demo from webpack.github.io [webpack.github.io](https:/
 * How to use the development server
 
 ```shell
- npm install webpack -g 
+ npm install webpack -g
 ```
 By following this guide @ [WebPack](https://webpack.github.io/docs/tutorials/getting-started/#welcome), you'll able to understand the popular **module bundler**, A tool for <u>bundling application source code</u> in convenient chunks and for loading that code from a server into a browser.
+
+Next playground is to use [WebPack 2](http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/).
